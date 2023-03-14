@@ -1,0 +1,5 @@
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\Exe04\obj\Debug\net7.0\Exe04.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\Exe04\obj\Debug\net7.0\Exe04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfo.cs
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\Exe04\obj\Debug\net7.0\Exe04.csproj.CoreCompileInputs.cache

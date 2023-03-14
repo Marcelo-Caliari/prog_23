@@ -1,0 +1,15 @@
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\bin\Debug\net7.0\TrabalhoNumero.exe
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\bin\Debug\net7.0\TrabalhoNumero.deps.json
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\bin\Debug\net7.0\TrabalhoNumero.runtimeconfig.json
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\bin\Debug\net7.0\TrabalhoNumero.dll
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\bin\Debug\net7.0\TrabalhoNumero.pdb
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\TrabalhoNumero.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\TrabalhoNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\TrabalhoNumero.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\TrabalhoNumero.AssemblyInfo.cs
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\TrabalhoNumero.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\TrabalhoNumero.dll
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\refint\TrabalhoNumero.dll
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\TrabalhoNumero.pdb
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\TrabalhoNumero.genruntimeconfig.cache
+C:\Users\marce\Documents\faculdade\prog1\2023\exe\TrabalhoNumero\obj\Debug\net7.0\ref\TrabalhoNumero.dll
