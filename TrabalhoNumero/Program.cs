@@ -1,18 +1,18 @@
-﻿using System;
-
-class Programa {
+﻿class Programa {
     static void Main(string[] args) {
-        Console.Write("Digite um número: ");
-        int valor = int.Parse(Console.ReadLine());
-        Console.WriteLine(NumeroPorExtenso(valor));
+        System.Console.Write("=========================================================");
+        System.Console.Write("Digite um número: ");
+        System.Console.Write("=========================================================\n");
+        int valor = int.Parse(System.Console.ReadLine());
+        System.Console.WriteLine(NumEXT(valor));
     }
     
-    static string NumeroPorExtenso(int valor) {
+    static string NumEXT(int valor) {
         if (valor == 0) {
             return "zero";
         }
         if (valor < 0) {
-            return "menos " + NumeroPorExtenso(-valor);
+            return "menos " + NumEXT(-valor);
         }
         if (valor <= 19) {
             string[] unidade = {
@@ -30,31 +30,31 @@ class Programa {
             };
             string resultado = dezena[valor / 10 - 2];
             if (valor % 10 != 0) {
-                resultado += " e " + NumeroPorExtenso(valor % 10);
+                resultado += " e " + NumEXT(valor % 10);
             }
             return resultado;
         }
         if (valor <= 999) {
-            string resultado = NumeroPorExtenso(valor / 100) + "cento";
+            string resultado = NumEXT(valor / 100) + "cento";
             if (valor % 100 != 0) {
-                resultado += " e " + NumeroPorExtenso(valor % 100);
+                resultado += " e " + NumEXT(valor % 100);
             }
             return resultado;
         }
         if (valor <= 999999) {
-            string resultado = NumeroPorExtenso(valor / 1000) + " mil";
+            string resultado = NumEXT(valor / 1000) + " mil";
             if (valor % 1000 != 0) {
-                resultado += " e " + NumeroPorExtenso(valor % 1000);
+                resultado += " e " + NumEXT(valor % 1000);
             }
             return resultado;
         }
         if (valor <= 999999999) {
-            string resultado = NumeroPorExtenso(valor / 1000000) + " milhões";
+            string resultado = NumEXT(valor / 1000000) + " milhões";
             if (valor % 1000000 != 0) {
-                resultado += " e " + NumeroPorExtenso(valor % 1000000);
+                resultado += " e " + NumEXT(valor % 1000000);
             }
             return resultado;
         }
-        return "número muito grande";
+        return "Limite Atingido";
     }
 }
